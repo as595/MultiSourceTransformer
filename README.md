@@ -11,4 +11,4 @@ Development repo for multi-source vision transformer for radio images
 
 ### A multi-source vision transformer for radio astronomy
 
-![multisource transformer architecture](https://github.com/as595/MultiSourceTransformer/blob/main/figures/diagram.png)
+![multisource transformer architecture](https://github.com/as595/MultiSourceTransformer/blob/main/figures/diagram.pdf)
