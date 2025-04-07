@@ -1,2 +1,2 @@
-# MultibandTransformer
-Development repo for multi-band vision transformer for radio images
+# MultiSourceVisionTransformer
+Development repo for multi-source vision transformer for radio images
