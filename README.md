@@ -4,7 +4,7 @@ Development repo for multi-source vision transformer for radio images
 ---
 ### Usage
 
-```python
+```
 python main.py --config configs/mirabest_fn-s.cfg
 ```
 
