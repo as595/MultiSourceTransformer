@@ -12,6 +12,9 @@ An example of multi-source data in radio astronomy: the same radio galaxy seen b
 
 ![multisource comparison images](https://github.com/as595/MultiSourceTransformer/blob/main/figures/comparison.png)
 
+<p align="center">
+  <img src="https://github.com/as595/MultiSourceTransformer/blob/main/figures/comparison.png" />
+</p>
 ---
 
 ### A multi-source vision transformer for radio astronomy
